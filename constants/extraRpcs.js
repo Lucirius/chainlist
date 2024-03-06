@@ -502,6 +502,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.infura,
       },
       {
+        url: "https://goerli.infura.io/v3/bd006008b9d6422cbc5685d950281b33",
+        tracking: "limited",
+        trackingDetails: privacyStatement.infura,
+      },    
+      {
         url: "https://eth-goerli.public.blastapi.io",
         tracking: "limited",
         trackingDetails: privacyStatement.blastapi,
